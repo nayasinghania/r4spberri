@@ -1,0 +1,12 @@
+---
+import { getCollection } from 'astro:content';
+import LinkCard from './LinkCard';
+const posts = await getCollection("links");
+console.log(posts);
+---
+
+<div>
+  {posts.map((post) => (
+    <LinkCard title={post.data.title} url={post.data.url}client:load/>
+  ))}
+</div>

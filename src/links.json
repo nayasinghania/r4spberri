@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "title": "Soundcloud",
+    "url": "https://soundcloud.com/r4spberri"
+  },
+  {
+    "id": 1,
+    "title": "Bandcamp",
+    "url": "https://r4spberri.bandcamp.com"
+  },
+  {
+    "id": 2,
+    "title": "YouTube",
+    "url": "https://www.youtube.com/@r4spberri"
+  },
+  {
+    "id": 3,
+    "title": "Instagram",
+    "url": "https://instagram.com/r4spberri"
+  },
+  {
+    "id": 4,
+    "title": "Bluesky",
+    "url": "https://bsky.app/profile/r4spberri.com"
+  },
+  {
+    "id": 5,
+    "title": "Email",
+    "url": "mailto:music@r4spberri.com"
+  }
+]
